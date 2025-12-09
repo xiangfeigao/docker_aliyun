@@ -1,8 +1,10 @@
---platform=linux/arm/v7 neosmemo/memos:stable
+--platform=linux/arm/v7 tailscale/tailscale
+--platform=linux/arm/amd64 tailscale/tailscale
+#--platform=linux/arm/v7 neosmemo/memos:stable
 #支持私库
---platform=linux/arm/v7 xiaoyaliu/alist:latest
+#--platform=linux/arm/v7 xiaoyaliu/alist:latest
 #支持指定架构
---platform=linux/arm/v7 hzexe/moontv:latest
---platform=linux/arm/v7  gdy666/lucky
---platform=linux/arm/v7  php:7.2-apache
---platform=linux/arm/v7  pihole/pihole
+#--platform=linux/arm/v7 hzexe/moontv:latest
+#--platform=linux/arm/v7  gdy666/lucky
+#--platform=linux/arm/v7  php:7.2-apache
+#--platform=linux/arm/v7  pihole/pihole
