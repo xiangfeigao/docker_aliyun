@@ -1,5 +1,5 @@
---platform=linux/arm/v7 tailscale/tailscale
---platform=linux/amd64 tailscale/tailscale
+--platform=linux/arm/v7 library/redis
+--platform=linux/amd64  library/redis
 #--platform=linux/arm/v7 neosmemo/memos:stable
 #支持私库
 #--platform=linux/arm/v7 xiaoyaliu/alist:latest
