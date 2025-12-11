@@ -1,5 +1,11 @@
---platform=linux/arm/v7 library/redis
---platform=linux/amd64  library/redis
+--platform=linux/arm/v7 pihole/pihole
+--platform=linux/amd64  pihole/pihole
+--platform=linux/amd64  adguard/adguardhome
+--platform=linux/arm/v7 gdy666/lucky
+--platform=linux/amd64  gdy666/lucky
+--platform=linux/amd64  neosmemo/memos:stable
+
+
 #--platform=linux/arm/v7 neosmemo/memos:stable
 #支持私库
 #--platform=linux/arm/v7 xiaoyaliu/alist:latest
